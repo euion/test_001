@@ -1,1 +1,2 @@
-Euiyeon Lim
+Euiyeon.Lim
+Kyeongmin.Park
